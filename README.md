@@ -2,5 +2,6 @@ Tareas
 =======
 
 
-- [ ] Que un usuario pueda tener varios carros
-- [ ] Realizar crude de un carro
+- [X] Que un usuario pueda tener varios carros
+- [X] Realizar crude de un carro
+
